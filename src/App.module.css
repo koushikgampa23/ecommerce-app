@@ -1,0 +1,15 @@
+.navBar {
+  background-color: brown;
+  padding: 20px;
+  color: white;
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+.link {
+  color: white;
+  margin-left: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}

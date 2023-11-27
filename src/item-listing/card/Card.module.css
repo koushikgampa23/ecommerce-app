@@ -1,0 +1,51 @@
+.imgStyle {
+  height: 200px;
+  width: 150px;
+}
+
+.container {
+  display: grid;
+  padding: 10px;
+  gap: 15px;
+}
+
+.rupeeStyle {
+  color: grey;
+  font-size: 14px;
+}
+
+.discountPrice {
+  text-decoration: line-through;
+  color: grey;
+  font-size: 12px;
+}
+
+.priceContainer {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.heading {
+  color: grey;
+  font-weight: 700;
+}
+
+.saleDiscount {
+  background-color: maroon;
+  color: #ffffff;
+  border-radius: 5px;
+  border: 0px;
+  padding: 10px;
+  font-size: 14px;
+}
+
+.deal {
+  color: maroon;
+}
+
+.priceTag {
+  font-weight: 600;
+  font-size: 20px;
+  color: grey;
+}
